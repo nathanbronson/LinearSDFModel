@@ -1,5 +1,3 @@
-<p align="center"><img src="https://github.com/nathanbronson/LinearSDFModel/blob/main/logo.jpg?raw=true" alt="logo" width="200"/></p>
-
 _____
 # LinearSDFModel
 estimating a linear model of the stochastic discount factor
